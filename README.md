@@ -1,5 +1,5 @@
 ### Hi there 👋
-Check out [my website](jackbow.github.io) and check out my [research project](https://artsengagementproject.site/intro.html) from a couple years back.
+Check out [my website](https://jackbow.github.io) and check out my [research project](https://artsengagementproject.site/intro.html) from a couple years back.
 <!--
 **jackbow/jackbow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
